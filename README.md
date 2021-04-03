@@ -1,3 +1,5 @@
+<h1>calculatig π using random number GCD</h1>
+<h2>Brief description</h2>
 The probability that two random integers are relatively prime is 6/π²<br>
 Therefore, from here, we can reverse the equation and calculate pi to be<br>
 π=√(6/prob)<br>
